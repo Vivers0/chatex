@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257912636315",
+    "project_id": "chatex-45607",
+    "storage_bucket": "chatex-45607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257912636315:android:c104f018732c4a760d573e",
+        "android_client_info": {
+          "package_name": "com.example.chatex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257912636315-oonrou573rusqjj6hdb9f8hguomod19u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSndIVx2Y5gs_AylQx8AlKQ3lOsTlsfas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257912636315-oonrou573rusqjj6hdb9f8hguomod19u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

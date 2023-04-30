@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CHATEX</string>
+
+    <string name="label_sign_up">Sign Up</string>
+    <string name="btn_sing_up">Sign Up</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Confirm Password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="label_login">Login</string>
+
+    <string name="label_message">Message</string>
+    <string name="label_profile">Profile</string>
+
+    <string name="btn_save">Save</string>
+
+    <string name="type_message">Type Message</string>
+</resources>
